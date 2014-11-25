@@ -1,0 +1,8 @@
+run66b_2010_07_constituent.out # coefficient file from analysis
+tide5n.dat                     # constituent database
+run66b_2010_07_pred.out	# output file for fitted values
+2009-03-12				# prediction start date
+2010-12-31 			    # end date (hour/minute ignored)
+10 				        # interval in minutes
+
+

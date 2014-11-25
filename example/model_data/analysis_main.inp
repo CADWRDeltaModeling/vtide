@@ -1,0 +1,8 @@
+sanfrancisco_analysis_2010_07.dat ! analysis request file
+tide5n.dat                        ! constituent database
+run66b_2010_07_obs.dat		      ! input observations file
+run66b_2010_07.out	   	          ! analysis output file
+run66b_2010_07_constituent.out    ! output coeffs for predication
+run66b_2010_07_fitted.out	      ! fitted estimates output file
+
+

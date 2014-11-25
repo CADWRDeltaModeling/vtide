@@ -1,0 +1,9 @@
+kiw06_6m_may2008_constituent.out  # coefficient file from analysis
+tide5n.dat                        # constituent database
+kiw06_6m_may2008_fitpred.out      # output file for fitted values
+2008-05-14                        # prediction start date
+2008-05-31                        # end date (hour/minute ignored)
+10                                # interval in minutes
+
+
+

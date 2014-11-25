@@ -1,0 +1,114 @@
+
+THE ANALYSIS PERIOD IS FROM 14/ 5/20 8 TO 31/ 5/20 8  IN THE TIME ZONE GMT 
+ USING SVD TO SOLVE THE OVERDETERMINED SYSTEM
+  i,ht,ht2=           1  -202.0000       22.00000    
+  i,ht,ht2=           2  -198.0000      -1.000000    
+  i,ht,ht2=           3  -177.0000      -28.00000    
+  i,ht,ht2=           4  -155.0000       26.00000    
+  i,ht,ht2=           5  -194.0000       14.00000    
+  i,ht,ht2=           6  -156.0000       19.00000    
+  i,ht,ht2=           7  -136.0000      -19.00000    
+  i,ht,ht2=           8  -113.0000      -22.00000    
+  i,ht,ht2=           9  -117.0000      0.0000000E+00
+  i,ht,ht2=          10  -124.0000      -17.00000    
+                    20                     8                     5          18
+                     1                    20  -999.0000      -999.0000    
+  nobs,ht,ht2=        2591  -235.0000      -72.00000    
+  nobs=        2591
+ STATION #   8615 ,  KIW06               LATITUDE 50 39, LONGITUDE 126  6
+NUMBER OF POINTS IN THE ANALYSIS =  2591
+  nin=           4
+  max, min eigenvalues =   50.92294       28.17957    
+LARGEST RESIDUAL MAGNITUDE & RESIDUAL SUM OF SQUARES: 0.58688E+03 0.55503E+08
+ST. DEV. OF RIGHT HAND SIDES OF ORIGINAL OVERDETERMINED SYSTEM: 0.16690E+03
+                       AND THE ROOT MEAN SQUARE RESIDUAL ERROR: 0.14662E+03
+  rms residual: brute force =   146.615674848205     
+  max residual:    586.8815            1210
+HARMONIC ANALYSIS RESULTS: AMPLITUDES, PHASE LAGS, C, S, & amp SD estimates, t-test value
+     Z0        0.000000000    -1.27644       0.000        2.881   0.000   0.000   0.000
+     O1        0.038730655    13.32351     227.723        3.797   3.812   3.805   3.502
+     K1        0.041780747    26.58307     199.790        3.163   3.172   3.164   8.402
+     M2        0.080511399   114.09070     240.731        4.471   4.490   4.486  25.435
+     S2        0.083333336    23.60484     233.133        5.033   5.033   5.033   4.690
+  INFERENCE RESULTS
+     Q1        0.037218504                   2.5448       227.7230
+     P1        0.041552588                   8.7990       199.7897
+     N2        0.078999251                  21.7913       240.7310
+     K2        0.083561495                   6.4205       233.1328
+    1 largest correlation coefficient is    0.173 at (i,j)=    5    3 for constituents K1    and O1   
+    2 largest correlation coefficient is    0.169 at (i,j)=    4    2 for constituents K1    and O1   
+    3 largest correlation coefficient is    0.155 at (i,j)=    9    6 for constituents S2    and M2   
+    4 largest correlation coefficient is    0.150 at (i,j)=    8    7 for constituents S2    and M2   
+    5 largest correlation coefficient is    0.117 at (i,j)=    5    2 for constituents K1    and O1   
+    6 largest correlation coefficient is    0.109 at (i,j)=    4    3 for constituents K1    and O1   
+    7 largest correlation coefficient is    0.017 at (i,j)=    3    1 for constituents O1    and Z0   
+    8 largest correlation coefficient is    0.014 at (i,j)=    2    1 for constituents O1    and Z0   
+    9 largest correlation coefficient is    0.014 at (i,j)=    7    4 for constituents M2    and K1   
+   10 largest correlation coefficient is    0.013 at (i,j)=    9    2 for constituents S2    and O1   
+   11 largest correlation coefficient is    0.010 at (i,j)=    6    3 for constituents M2    and O1   
+   12 largest correlation coefficient is    0.010 at (i,j)=    3    2 for constituents O1    and O1   
+   13 largest correlation coefficient is    0.010 at (i,j)=    6    5 for constituents M2    and K1   
+   14 largest correlation coefficient is    0.009 at (i,j)=    8    6 for constituents S2    and M2   
+   15 largest correlation coefficient is    0.009 at (i,j)=    6    4 for constituents M2    and K1   
+   16 largest correlation coefficient is    0.008 at (i,j)=    8    3 for constituents S2    and O1   
+   17 largest correlation coefficient is    0.008 at (i,j)=    7    1 for constituents M2    and Z0   
+   18 largest correlation coefficient is    0.007 at (i,j)=    9    7 for constituents S2    and M2   
+   19 largest correlation coefficient is    0.007 at (i,j)=    6    2 for constituents M2    and O1   
+   20 largest correlation coefficient is    0.007 at (i,j)=    9    3 for constituents S2    and O1   
+N,m,LAT,LON,SDEV0,SDEV:        2591         9      50.6500  126.1000    166.90    146.36
+ROOT MEAN SQUARE RESIDUAL ERROR AFTER INFERENCE IS   0.146616E+03
+
+
+  max, min eigenvalues =   50.92294       28.17957    
+LARGEST RESIDUAL MAGNITUDE & RESIDUAL SUM OF SQUARES: 0.23531E+03 0.11174E+08
+ST. DEV. OF RIGHT HAND SIDES OF ORIGINAL OVERDETERMINED SYSTEM: 0.69995E+02
+                       AND THE ROOT MEAN SQUARE RESIDUAL ERROR: 0.65784E+02
+  rms residual: brute force =   65.7836166038699     
+  max residual:    235.3147             675
+HARMONIC ANALYSIS RESULTS: AMPLITUDES, PHASE LAGS, C, S, & amp SD estimates, t-test value
+     Z0        0.000000000    -6.73050       0.000        1.293   0.000   0.000   0.000
+     O1        0.038730655     9.56422     236.045        1.704   1.710   1.708   5.599
+     K1        0.041780747    12.35543     220.338        1.419   1.423   1.421   8.696
+     M2        0.080511399    30.10075     241.982        2.006   2.015   2.013  14.955
+     S2        0.083333336    10.55418      69.858        2.258   2.258   2.258   4.674
+  INFERENCE RESULTS
+     Q1        0.037218504                   1.8268       236.0449
+     P1        0.041552588                   4.0896       220.3380
+     N2        0.078999251                   5.7492       241.9820
+     K2        0.083561495                   2.8707        69.8579
+    1 largest correlation coefficient is    0.173 at (i,j)=    5    3 for constituents K1    and O1   
+    2 largest correlation coefficient is    0.169 at (i,j)=    4    2 for constituents K1    and O1   
+    3 largest correlation coefficient is    0.155 at (i,j)=    9    6 for constituents S2    and M2   
+    4 largest correlation coefficient is    0.150 at (i,j)=    8    7 for constituents S2    and M2   
+    5 largest correlation coefficient is    0.117 at (i,j)=    5    2 for constituents K1    and O1   
+    6 largest correlation coefficient is    0.109 at (i,j)=    4    3 for constituents K1    and O1   
+    7 largest correlation coefficient is    0.017 at (i,j)=    3    1 for constituents O1    and Z0   
+    8 largest correlation coefficient is    0.014 at (i,j)=    2    1 for constituents O1    and Z0   
+    9 largest correlation coefficient is    0.014 at (i,j)=    7    4 for constituents M2    and K1   
+   10 largest correlation coefficient is    0.013 at (i,j)=    9    2 for constituents S2    and O1   
+   11 largest correlation coefficient is    0.010 at (i,j)=    6    3 for constituents M2    and O1   
+   12 largest correlation coefficient is    0.010 at (i,j)=    3    2 for constituents O1    and O1   
+   13 largest correlation coefficient is    0.010 at (i,j)=    6    5 for constituents M2    and K1   
+   14 largest correlation coefficient is    0.009 at (i,j)=    8    6 for constituents S2    and M2   
+   15 largest correlation coefficient is    0.009 at (i,j)=    6    4 for constituents M2    and K1   
+   16 largest correlation coefficient is    0.008 at (i,j)=    8    3 for constituents S2    and O1   
+   17 largest correlation coefficient is    0.008 at (i,j)=    7    1 for constituents M2    and Z0   
+   18 largest correlation coefficient is    0.007 at (i,j)=    9    7 for constituents S2    and M2   
+   19 largest correlation coefficient is    0.007 at (i,j)=    6    2 for constituents M2    and O1   
+   20 largest correlation coefficient is    0.007 at (i,j)=    9    3 for constituents S2    and O1   
+N,m,LAT,LON,SDEV0,SDEV:        2591         9      50.6500  126.1000     70.00     65.67
+ROOT MEAN SQUARE RESIDUAL ERROR AFTER INFERENCE IS   0.657836E+02
+
+
+  ELLIPSE PARAMETERS:                        Major,   Minor, angle incl,  phase
+  Constituents included directly (not inferred)
+    Z0     0.00000000    6.850   0.000   79.3  180.0
+    O1     0.03873065   16.362   1.127   35.6  230.5
+    K1     0.04178075   29.044   3.969   24.0  203.3
+    M2     0.08051140  117.993   0.635   14.8  240.8
+    S2     0.08333334   25.706  -2.789  156.5   55.8
+  Inferred constituents
+    Q1     0.03721850    3.125   0.215   35.6  230.5
+    P1     0.04155259    9.614   1.314   24.0  203.3
+    N2     0.07899925   22.537   0.121   14.8  240.8
+    K2     0.08356149    6.992  -0.759  156.5   55.8

@@ -1,0 +1,32 @@
+18 1 0 35    ! # main freq, # components, itrend (1=true, 0=false), # stations
+    Z0       0.0000000000 
+    MSF      0.0028219327
+    Q1       0.0372185026    
+    O1       0.0387306544    
+    K1       0.0417807462    
+    MU2      0.0776894680    
+    N2       0.0789992488    
+    M2       0.0805114007    
+    L2       0.0820235525
+    S2       0.0833333333    
+    MK3      0.1222921469    
+    SK3      0.1251140796    
+    MN4      0.1595106495
+    M4       0.1610228013
+    MS4      0.1638447340
+    S4       0.1666666667    
+    M6       0.2415342020
+    2SM6     0.2471780673
+2010-07-07                                        ! start of analysis (period may be subset of input observations)
+2010-08-07                                        ! end of analysis
+9414290 "San Francisco"    PST    37   48  122   28  ! integer station id, name, time zone, lat deg/min, lon deg/min
+    K1       0.0417807462    1                    ! main constituent with its freq and number of inferred constituents
+    P1       0.0415525871   0.316      2.5       ! inferred constituent, frequency, amplitude ration, phase diff
+    S2       0.0833333333    1
+    K2       0.0835614924   0.292      9.2
+
+
+
+
+
+
