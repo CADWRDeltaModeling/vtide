@@ -6,7 +6,7 @@ project (VTide Fortran C)
 include(FindLAPACK)
 
 if ("${CMAKE_Fortran_COMPILER_ID}" MATCHES "Intel")
-  set (CMAKE_Fortran_FLAGS "${CMAKE_Fortran_FLAGS} -extend-source 132")
+  set (CMAKE_Fortran_FLAGS "${CMAKE_Fortran_FLAGS} -extend-source")
 endif()
 
 add_library(versatile_tide analyze.for astro_time.for constituents.for file_io.for predict.for svd.for write_output.for)
